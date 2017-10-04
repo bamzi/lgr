@@ -1,6 +1,6 @@
 Obsolete project. Check out https://github.com/pressly/lg.
 
-# Lg
+# Lgr
 
 `Lg` ("log") is a convenience wrapper pacakge for application logging backed by Logrus (https://github.com/Sirupsen/logrus). 
 
